@@ -1,5 +1,5 @@
-x = 1
-y = 4
-hhkjtj_tjtj = 6
+def bubbleSort(arr):
+    n = len(arr)
 
-jjj = h
+
+for i in range(n):
